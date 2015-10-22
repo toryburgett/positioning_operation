@@ -9,3 +9,27 @@ body {
   padding: 10px;
   width: 400px;
 }
+
+.breadbasket{
+  bottom: 145px;
+  left: 192px;
+  position: relative;
+}
+
+.heart{
+  position: relative;
+  left: 110px;
+  bottom: 365px;
+}
+
+.wishbone{
+  position: relative;
+  left: 97px;
+  bottom: 367px;
+}
+
+.butterflies{
+  position: relative;
+  left: 180px;
+  bottom: 245px;
+}
